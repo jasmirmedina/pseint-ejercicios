@@ -1,9 +1,9 @@
 // El costo de las llamadas telefonicas nacionales depende
 // de la ciudad en la que se encuentre y el numero de minutos
 // hablados, En la siguiente tabla se presenta el costo por
-// minuto y por ciudad
+// minuto y por ciudad.
 //
-// A cada ciudad se le asigna una clave
+// A cada ciudad se le asigna una clave:
 //
 // Clave    Ciudad      Precio
 // 1        Leon        2
@@ -18,7 +18,7 @@
 // hablados se le cobrara 0.25 pero si se pasa de esta promocion,
 // es decir, que por cada minuto extra que el cliente esta hablando
 // se cobrara 0.15 mas el precio estipado para cada ciudad a la que
-// se este llamando
+// se este llamando.
 
 Proceso llamadasTelefonicasSegun
 	Definir minutoHablados Como Entero;
