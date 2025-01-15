@@ -1,3 +1,8 @@
+// Escriba un programa que guarde en un arreglo unidimensional “n” números que se 
+// pedirán por teclado, se deberá contar y sumar los números pares para guardar el dato 
+// en una variable “suma_pares” y de igual forma con los numeros impares en la variable 
+// “suma_impares”.
+
 Proceso paresImpares
 	Definir arreglo, n, sumaPares, sumaImpares, i, valorAc Como Entero;
 	
