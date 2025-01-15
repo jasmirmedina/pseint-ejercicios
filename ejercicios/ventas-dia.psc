@@ -1,3 +1,7 @@
+// Escriba un programa que guarde en un arreglo las ventas de productos de una tienda, 
+// escriba el total de la venta del día y que encuentre el precio del producto más caro y el 
+// más barato.
+
 Proceso ventasDia
 	Definir numProductos, i Como Entero;
 	Definir ventas Como Real;
